@@ -1,0 +1,41 @@
+{
+  "bolt": {
+    "recursive": true,
+    "paths": [
+      "node_modules/@bolt/global",
+      "node_modules/@bolt/components-card",
+      "node_modules/@bolt/components-ratio",
+      "node_modules/@bolt/core"
+    ]
+  },
+  "bolt-data": {
+    "recursive": true,
+    "paths": [
+      "www/build/data"
+    ]
+  },
+  "bolt-global": {
+    "recursive": true,
+    "paths": [
+      "node_modules/@bolt/global"
+    ]
+  },
+  "bolt-components-card": {
+    "recursive": true,
+    "paths": [
+      "node_modules/@bolt/components-card"
+    ]
+  },
+  "bolt-components-ratio": {
+    "recursive": true,
+    "paths": [
+      "node_modules/@bolt/components-ratio"
+    ]
+  },
+  "bolt-core": {
+    "recursive": true,
+    "paths": [
+      "node_modules/@bolt/core"
+    ]
+  }
+}

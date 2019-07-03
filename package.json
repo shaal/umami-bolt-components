@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "build": "bolt build",
+    "build:prod": "NODE_ENV=production bolt build",
+    "start": "bolt start"
+  },
+  "dependencies": {
+    "@bolt/build-tools": "^2.5.2",
+    "@bolt/components-card": "^2.5.2",
+    "@bolt/global": "^2.5.2"
+  },
+  "name": "umami-bolt-components",
+  "version": "1.0.0",
+  "main": ".boltrc.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

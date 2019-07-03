@@ -1,0 +1,7 @@
+{
+  "name": "Bolt Manifest",
+  "bolt-global.css": "www/buildbolt-global.css",
+  "bolt-global.js": "www/buildbolt-global.js",
+  "vendors.js": "www/buildvendors-bundle-592b9b0d1c46aaa63717.js",
+  "fonts/index.scss": "www/buildfonts/opensans-semibolditalic.woff2"
+}

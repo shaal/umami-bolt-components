@@ -1,0 +1,11 @@
+{
+  "block": "block",
+  "inline-block": "inline-block",
+  "inline": "inline",
+  "table": "table",
+  "table-row": "table-row",
+  "table-cell": "table-cell",
+  "hidden": "none",
+  "flex": "flex",
+  "inline-flex": "inline-flex"
+}
